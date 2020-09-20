@@ -1,6 +1,6 @@
 # Unit 11 Express Homework: Note Taker
 
-![gif](readme.png)
+![gif](readme.gif)
 
 [Live Demo on Heroku](https://davenelson-note-taker.herokuapp.com)
 
