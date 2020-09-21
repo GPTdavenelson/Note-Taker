@@ -18,6 +18,5 @@ app.get('/notes', function (req, res) {
 app.get('*', function (req, res) {
     res.sendFile(path.join(__dirname, '/public/index.html'));
 });
-// app.use(require(path.join(__dirname, 'routes', 'html')));
 
 app.listen(PORT, () => console.log(`serever started on http://localhost:${PORT}`));
